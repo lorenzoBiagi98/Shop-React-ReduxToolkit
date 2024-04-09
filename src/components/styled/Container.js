@@ -26,7 +26,7 @@ const Container = styled("div")(
         width: "calc(100% - 24px",
       },
       sm: {
-        maxWidth: "568px",
+        maxWidth: "568",
         width: "calc(100% - 12px)",
       },
       xs: {
