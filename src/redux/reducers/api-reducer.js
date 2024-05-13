@@ -42,7 +42,7 @@ const isQuerySaved = (action) => {
 };
 
 const apiSlice = createSlice({
-  name: "photo",
+  name: "photos",
   initialState,
   reducers: {
     startLoading: (state) => {
